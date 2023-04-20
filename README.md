@@ -29,6 +29,8 @@ Aerts, H.J.W.L. et al. (2014) “Correction: Corrigendum: Decoding tumour phenot
 
 We opt to simplify this repository for authors and interested scientists to follow.
 
+If you are interested in using this code in Google-colab, the code is availble at: https://colab.research.google.com/drive/1oUG0w_ZKa-hzQtT0xEqMUnOnaJ9LbU8T?usp=sharing
+
 
 ## Contact
 If you have any questions or comments, please feel free to reach out to the author, Bardia Yousefi, at Bardia.Yousefi@gmail.com.
