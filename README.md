@@ -25,15 +25,15 @@ H.J.W.L. Aerts, et al. (2015). Data From NSCLC-Radiomics-Genomics. The Cancer Im
 T. Minka (2000) “Automatic choice of dimensionality for PCA” Advances in neural information processing systems, 13.
 
 Radiomics in this study were extracted from Pyradiomics library (https://pyradiomics.readthedocs.io/en/latest/):
-Aerts, H.J.W.L. et al. (2014) “Correction: Corrigendum: Decoding tumour phenotype by noninvasive imaging using a quantitative radiomics approach,” Nature Communications, 5(1). Available at: https://doi.org/10.1038/ncomms5644. 
+Aerts, H.J.W.L. et al. (2014) “Correction: Corrigendum: Decoding tumor phenotype by noninvasive imaging using a quantitative radiomics approach,” Nature Communications, 5(1). Available at: https://doi.org/10.1038/ncomms5644. 
 
 We opt to simplify this repository for authors and interested scientists to follow.
 
-If you are interested in using this code in Google-colab, the code is availble at: 
+If you are interested in using this code in Google-colab, the code is available at: 
 
 
 ## Contact
-If you have any questions or comments, please feel free to reach out to the author, Bardia Yousefi, at Bardia.Yousefi@gmail.com.
+If you have any questions or comments, please feel free to contact the author, Bard Yousefi, at Bardia.Yousefi@gmail.com.
 
 
 License: BSD 3 clause (C) 2011 (2023)
